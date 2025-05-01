@@ -1,4 +1,4 @@
-# Proyecto de Análisis con Python
+# Prueba Data Science
 
 Este repositorio contiene tres notebooks sobre procesamiento de lenguaje natural, predicción de series temporales y transcripción de audio a texto. También contiene un análisis de datos con Power BI de laa base de datos sobre ventas. A continuación se describen brevemente.
 
