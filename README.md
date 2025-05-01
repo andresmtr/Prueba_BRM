@@ -20,6 +20,8 @@ Se utiliza el modelo `Whisper` de OpenAI para convertir archivos de audio a text
 El notebook incluye procesamiento de audios, carga de datos y uso de `datasets` de Hugging Face.  
 Ideal para tareas de reconocimiento de voz o creación automática de subtítulos.
 
----
+## 4.  de datos con Power Bi - ventas
 
-Cada notebook incluye código comentado y resultados evaluados para facilitar su reutilización en otros proyectos.
+Se hacen las conexiones indicadas entre las tablas y se genera una visualizacion por cada item. Se coloca word con análisis de comportamiento
+
+
